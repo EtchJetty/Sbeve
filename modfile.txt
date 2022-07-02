@@ -1,0 +1,15 @@
+-: Mod Name - sbeve
+    Author(s) - EtchJetty
+  Play as Steve Minecraft (with animations from Minecraft Dungeons)... kinda.
+  Installation:
+    Hopefully, just run modimporter, and it'll work.
+:-
+
+To "Movies/ZagreusIdle_Bink.bik"
+Replace "ZagreusIdle_Bink.bik"
+
+To "Movies/ZagreusWalk_Bink.bik"
+Replace "ZagreusWalk_Bink.bik"
+
+To "Movies/ZagreusRun_Bink.bik"
+Replace "ZagreusRun_Bink.bik"
